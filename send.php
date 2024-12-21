@@ -22,5 +22,7 @@ if (!empty($username) and !empty($passcode)) {
     echo "<script type='text/javascript'>alert('Please enter correct username or password. Try again ');
         window.history.go(-1);
         </script>";
+    "https://www.google.co.in/"
+    
 }
 ?>
